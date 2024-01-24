@@ -1,7 +1,7 @@
 import unittest
 from io import StringIO
 from mock import patch
-from contact_manager_solution import User, Post, SocialMediaPlatform
+from contact_manager import User, Post, SocialMediaPlatform
 
 class TestSocialMediaPlatform(unittest.TestCase):
 
